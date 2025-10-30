@@ -34,10 +34,9 @@
 ---
 
 ### 🧩 Proyectos destacados
-- **(Agregá aquí 2–3 repos)** – una línea de qué hace y para quién.
-- **TP2 Scraping** – breve descripción.
-- **Portfolio / Landing** – link de demo si tenés.
-
+✅ ohaio-frontend
+✅ ohaio-backend
+✅ web-project
 ---
 
 ### 🔗 Contacto
