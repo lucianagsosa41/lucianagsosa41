@@ -5,8 +5,8 @@
 <h1 align="center">¡Hola <Desarrolladores />! 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/lgsosa?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/lgsosa?style=social"></a>
-  <a href="https://github.com/lgsosa"><img alt="Visitas" src="https://komarev.com/ghpvc/?username=lgsosa"></a>
+  <a href="https://github.com/lgsosa?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/lucianagsosa41?style=social"></a>
+  <a href="https://github.com/lgsosa"><img alt="Visitas" src="https://komarev.com/ghpvc/?username=lucianagsosa41"></a>
 </p>
 
 ---
