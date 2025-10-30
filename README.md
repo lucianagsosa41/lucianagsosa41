@@ -39,9 +39,6 @@
 ✅ web-project
 ---
 
-### 🔗 Contacto
-
-
 ---
 
 ### 📊 Estadísticas de GitHub
