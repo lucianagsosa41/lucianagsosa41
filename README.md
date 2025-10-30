@@ -46,8 +46,7 @@
 ---
 
 ### 📫 Contacto
-📧 [lucianagsosa03@gmail.com](mailto:lucianagsosa03@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/luciana-sosa)  
+📧 [lucianagsosa41@gmail.com](mailto:lucianagsosa03@gmail.com)  
 📍 Mendoza, Argentina 🇦🇷
 
 
