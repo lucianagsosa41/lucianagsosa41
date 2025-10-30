@@ -45,13 +45,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-| ![Estadísticas](https://github-readme-stats.vercel.app/api?username=lucianagsosa41&show_icons=true&theme=tokyonight) | ![Racha](https://github-readme-streak-stats.herokuapp.com/?user=lucianagsosa41&theme=tokyonight) |
-|---|---|
-| ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianagsosa41&layout=compact&theme=tokyonight) | ![Estrellas](https://github-readme-stats.vercel.app/api?username=lucianagsosa41&show_icons=true&hide_rank=true&theme=tokyonight) |
-
----
-
 ### 📫 Contacto
 📧 [lucianagsosa03@gmail.com](mailto:lucianagsosa03@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/luciana-sosa)  
