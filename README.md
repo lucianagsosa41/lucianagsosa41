@@ -18,7 +18,7 @@
 ### 🙋‍♀️ Sobre mí
 <img align="right" width="55%" alt="Git header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🎓 Estudiante de **Ingeniería en Sistemas – UTN Mendoza**  
+- 🎓 Estudiante de **Ingeniería en Sistemas – Universidad De Mendoza**  
 - 🌱 Aprendiendo **React**, **Angular**, **Node.js** y **PostgreSQL**  
 - 💡 Me interesa el **diseño funcional**, la **automatización** y el **desarrollo full-stack**  
 - 🧠 Aplico mis conocimientos en proyectos reales como *Ohaio* 🍔☕  
